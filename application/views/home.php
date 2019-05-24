@@ -9,7 +9,7 @@
  //echo $data[1]["nama_lokasi"];
 
  echo "<br/>";
- echo "<h1 align='center'>Prakiraan Cuaca di ".count($data)." Tempat</h1>";
+ echo "<h2 align='center'>Prakiraan Cuaca di ".count($data)." Tempat Pada Hari ini</h2>";
  echo "<br/>";
 ?>
  <table class="table table-thead-dark">
